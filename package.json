@@ -4,7 +4,8 @@
   "description": "OAuth 2.0 login provider for Mob Your Life.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npm run test:lint",
+    "test:lint": "standard"
   },
   "repository": {
     "type": "git",
@@ -25,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/mobyourlife/v4-login/issues"
   },
-  "homepage": "https://github.com/mobyourlife/v4-login#readme"
+  "homepage": "https://github.com/mobyourlife/v4-login#readme",
+  "devDependencies": {
+    "standard": "^6.0.7"
+  }
 }
