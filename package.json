@@ -1,0 +1,29 @@
+{
+  "name": "mob-login",
+  "version": "4.0.0",
+  "description": "OAuth 2.0 login provider for Mob Your Life.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mobyourlife/v4-login.git"
+  },
+  "keywords": [
+    "oauth",
+    "login",
+    "provider",
+    "mob",
+    "your",
+    "life",
+    "social",
+    "network"
+  ],
+  "author": "Filipe Oliveira <contato@fmoliveira.com.br>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mobyourlife/v4-login/issues"
+  },
+  "homepage": "https://github.com/mobyourlife/v4-login#readme"
+}
