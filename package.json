@@ -29,5 +29,9 @@
   "homepage": "https://github.com/mobyourlife/v4-login#readme",
   "devDependencies": {
     "standard": "^6.0.7"
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0"
   }
 }
